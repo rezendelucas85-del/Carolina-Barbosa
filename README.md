@@ -23,8 +23,7 @@ Site profissional de Carolina Barbosa Torres de Rezende, psicóloga clínica com
 
 ## Deploy
 
-Este site é hospedado no Vercel:
-👉 [Carolina Barbosa](https://seu-dominio.vercel.app)
+Este site é hospedado no Vercel.
 
 Para fazer deploy:
 1. Conecte o repositório ao Vercel
@@ -42,7 +41,6 @@ Abra o arquivo `index.html` em um navegador ou use um servidor local.
 
 ## Contato
 
-- **WhatsApp**: [Agende uma consulta](https://wa.me/55)
 - **CRP**: 04/80475
 
 ---
